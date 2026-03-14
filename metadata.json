@@ -1,0 +1,5 @@
+{
+  "name": "Aegis-Red: Attack Simulation Lab",
+  "description": "A local Red Team simulation and detection environment for cybersecurity internship portfolios.",
+  "requestFramePermissions": []
+}
