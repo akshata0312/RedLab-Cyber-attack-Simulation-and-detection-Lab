@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aegis-Red: Local Attack Simulation & Detection Lab
 
 Aegis-Red is a comprehensive Red Team cybersecurity simulation environment designed for internship portfolios. It allows users to simulate real-world attack techniques, observe system responses, and understand how defensive monitoring (SIEM) detects offensive actions.
@@ -36,3 +37,6 @@ This lab simulates a "Cyber Range" where an intern can act as a Red Team operato
 
 ---
 *Developed as a Cybersecurity Internship Project Portfolio.*
+=======
+# RedLab-Cyber-attack-Simulation-and-detection-Lab
+>>>>>>> 84d01783cf1d9eb48054f2d2b56bfc3c461713e7
